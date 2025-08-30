@@ -1,4 +1,4 @@
-Awesome, Atul! Here’s a compact, production-lean Azure Messaging System project you can drop into a repo and run end-to-end. It uses **Azure Service Bus (queue + topic)**, **Terraform** for IaC, and **Python** producer/consumer apps (with DLQ handling & retries), plus basic **monitoring alerts**.
+a compact, production-lean Azure Messaging System project you can drop into a repo and run end-to-end. It uses **Azure Service Bus (queue + topic)**, **Terraform** for IaC, and **Python** producer/consumer apps (with DLQ handling & retries), plus basic **monitoring alerts**.
 
 ---
 
